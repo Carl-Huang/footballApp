@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  FootBallApps
+
+  Created by Carl on 13-7-27.
+  Copyright (c) 2013年 yuninfo. All rights reserved.
+*/
+//Scene title
+"LeftSceneTitle"="广州恒大";
+"MainSceneTitle"="恒大新闻";
+"NoticeList"="公告列表";
+"Notice"="公告";
+
+
+//LeftMenuItemTitle
+"HengDaNews"="恒大新闻";
+"CompetitionInfo"="赛事信息";
+"Club"="俱乐部";
+"MembersArea"="会员专区";
+"PhoneBooking"="手机订票";
+"Business"="商务";
+"OnlineMall"="网上商城";
+"FansForum"="球迷论坛";
+
+
+
+//Button Title
+"Back"="返回";
